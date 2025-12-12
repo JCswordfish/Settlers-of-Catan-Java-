@@ -78,33 +78,3 @@ public class Trade implements Serializable{
 
 }
 
-
-T 12.1, 12.2
-
-T 12.3
-
-T 12.4
-
-T 12.5
-
-T 12.5
-
-T 12.5, 10.1
-
-T 10.5 (review of conic sections, as needed)
-
-T 12.6 (no video lecture, so read text carefully)
-
-T 14.1
-
-T 14.2 (no video lecture, so read text carefully)
-
-T 14.2 (no video lecture, so read text carefully)
-
-T 14.3, 14.4
-
-T 14.4, 14.5
-
-T 14.4, 14.5
-
-T 14.6
